@@ -50,7 +50,24 @@ table {
     color: black;
     background-color: white;
 }
-
-.testo1{
+.monitor{
+    margin: 10px 0px;
+    width: 300px;
+    height: 200px;
     background-image: url(../img/monitor.jpg);
+}
+.grafico{
+    margin: 10px 0px;
+    width: 300px;
+    height: 200px;
+    background-image: url(../img/graph.jpg);
+}
+h3{
+    color: grey;
+}
+h4{
+    margin-top: 10px;
+    margin-left: 10px;
+    color:white;
+
 }
